@@ -4,16 +4,16 @@ COVID-19 Impact on NO2
 
 Credits:
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome (https://fontawesome.io)
 	Maps:
-		Openlayers (openlayers.org)
+		Openlayers (https://openlayers.org)
 	Images:
 		NASA (https://climate.nasa.gov)
 	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-		ol-ext (viglino.github.io/ol-ext)
-		geotiff.js (geotiffjs.github.io/geotiff.js)
-		plotty.js (santilland.github.io/plotty)
-		proj4.js (github.com/proj4js/proj4js)
+		jQuery (https://jquery.com)
+		Scrollex (https://github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (https://github.com/ajlkn/responsive-tools)
+		ol-ext (https://viglino.github.io/ol-ext)
+		geotiff.js (https://geotiffjs.github.io/geotiff.js)
+		plotty.js (https://santilland.github.io/plotty)
+		proj4.js (https://github.com/proj4js/proj4js)
